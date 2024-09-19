@@ -9,7 +9,6 @@ Welcome to the Data Mining Course Repository! 🎉 This repository is designed t
 ## Module 1: Introduction to Data Mining 📊
 - Introduction to data mining and its applications 🔍
 - Why and how data mining is used 📈
-- [Code examples](./module_1/) | [Google Colab](https://colab.research.google.com)
 
 ## Module 2: Clustering Techniques 🌐
 - Introduction to clustering and its uses 🔄
