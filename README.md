@@ -6,26 +6,26 @@
 
 Welcome to the Data Mining Course Repository! 🎉 This repository is designed to support your learning journey in data mining. It covers various topics that will be explored throughout the course. Below you will find the list of topics for each module along with links to the code examples in Python and the Google Colab notebook.
 
-## Module 1: Introduction to Data Mining 📊
+## Module 0: Introduction to Data Mining 📊
 - Introduction to data mining and its applications 🔍
 - Why and how data mining is used 📈
 
-## Module 2: Clustering Techniques 🌐
+## Module 1: Clustering Techniques 🌐
 - Introduction to clustering and its uses 🔄
 - Applications of clustering in real-world scenarios 📊
 - [Code examples](./module_2/) | [Google Colab](https://colab.research.google.com)
 
-## Module 3: Analysis of Variance (ANOVA) 🧪
+## Module 2: Analysis of Variance (ANOVA) 🧪
 - Introduction to ANOVA for decision support 📊
 - Understanding statistical significance with ANOVA 📐
 - [Code examples](./module_3/) | [Google Colab](https://colab.research.google.com)
 
-## Module 4: Linear Classification Models 📏
+## Module 3: Linear Classification Models 📏
 - Introduction to linear classification models 🔢
 - Applying logistic regression in decision making 🚀
 - [Code examples](./module_4/) | [Google Colab](https://colab.research.google.com)
 
-## Module 5: Evaluating Algorithms 🔍
+## Module 4: Evaluating Algorithms 🔍
 - Simulation and validation of algorithms ⚙️
 - Algorithm performance in decision support systems 🎯
 - [Code examples](./module_5/) | [Google Colab](https://colab.research.google.com)
