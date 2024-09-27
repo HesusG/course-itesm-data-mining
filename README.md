@@ -13,7 +13,7 @@ Welcome to the Data Mining Course Repository! 🎉 This repository is designed t
 ## Module 1: Clustering Techniques 🌐
 - Introduction to clustering and its uses 🔄
 - Applications of clustering in real-world scenarios 📊
-- [Code examples](./1Clustering/clustering.ipynb) | [Data](./1Clustering/1Clustering/data/)
+- [Code examples](./1Clustering/clustering.ipynb) | [Data](./1Clustering/data/)
 
 ## Module 2: Analysis of Variance (ANOVA) 🧪
 - Introduction to ANOVA for decision support 📊
