@@ -1,0 +1,62 @@
+# Core Data Science Libraries
+numpy
+pandas
+scipy
+scikit-learn
+plotly
+tqdm
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Interactive Computing
+jupyterlab
+notebook
+
+# Data Manipulation and Storage
+sqlalchemy
+h5py
+
+# Web Requests and Scraping
+requests
+beautifulsoup4
+
+# Additional Utilities
+python-dotenv
+pylint
+
+# Optional: For handling large datasets
+dask
+
+# Optional: For deep learning (if needed)
+tensorflow
+torch
+
+# Data Cleaning and Processing
+pyjanitor
+missingno
+
+# Statistical Analysis
+statsmodels
+pingouin
+
+# Machine Learning Enhancements
+xgboost
+lightgbm
+catboost
+
+# Natural Language Processing (NLP)
+nltk
+spacy
+
+# Data Storage and Interaction
+openpyxl
+
+# Testing and Debugging
+pytest
+
+
+# Deployment
+flask
+django
